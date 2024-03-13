@@ -45,5 +45,15 @@ Estos KPIs se crearon con la finalidad de cuantificar y potenciar la seguridad v
 
 ## CONCLUSIONES
 
+1. La mayor cantidad de acusados por siniestros corresponden a autos, locomoción colectiva y transporte de cargas. Los grupos más afectados son motociclistas y peatones. Sin embargo, no se puede dictaminar como responsables al primer grupo de la totalidad de sucesos (Se necesita una perspectiva completa).
+
+3. Temporalmente, se puede evidenciar una tendencia a la disminución de accidentes el año 2020 y posterior aumento el 2021, atribuible al confinamiento por la pandemia COVID-19. Sin embargo, no hay una clara tendencia si se omite este evento.
+
+5. Se pueden proponer 2 rangos etarios con tendencia a ser víctimas de estos siniestros: 18-40 años y mayores de 60 años (¿mayor imprudencia? ¿menor capacidad de reacción?). 
+
+7. Mayor conciencia y responsabilidad vial sumado a mayor cantidad de fiscalizaciones.
+
+9. No existe información sobre rango etario ni sexo de los acusados. Para mejorar la comprensión de estos siniestros y generar políticas al respecto, esta información también debiera ser registrada.
+
 ## FUENTE DE DATOS
 https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales

@@ -14,14 +14,9 @@ Archivo: [1 ETL.ipynb](https://github.com/cristobalqv/siniestros-viales/blob/mai
 
 Constó de un primer acercamiento o visualización de forma gráfica de los datos, los cuales presentan ciertas tendencias en algunas de sus variables
 Archivo: [2 EDA.ipynb](https://github.com/cristobalqv/siniestros-viales/blob/main/2%20EDA.ipynb "2 EDA.ipynb")
-
 [![EDA1](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA1.png "EDA1")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA1.png "EDA1")
 
-TEXTO
-
 [![EDA 2](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA2.png "EDA 2")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA2.png "EDA 2")
-
-TEXTO
 
 [![EDA 3](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA3.png "EDA 3")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA3.png "EDA 3")
 

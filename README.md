@@ -51,7 +51,7 @@ Estos KPIs se crearon con la finalidad de cuantificar y potenciar la seguridad v
 
 5. Se pueden proponer 2 rangos etarios con tendencia a ser víctimas de estos siniestros: 18-40 años y mayores de 60 años (¿mayor imprudencia? ¿menor capacidad de reacción?). 
 
-7. Mayor conciencia y responsabilidad vial sumado a mayor cantidad de fiscalizaciones.
+7. Mayor conciencia y responsabilidad vial sumado a mayor cantidad de fiscalizaciones (casos de conductores de motos fallecidos menores de de 16 y 17 años).
 
 9. No existe información sobre rango etario ni sexo de los acusados. Para mejorar la comprensión de estos siniestros y generar políticas al respecto, esta información también debiera ser registrada.
 

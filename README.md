@@ -15,6 +15,16 @@ Archivo: [1 ETL.ipynb](https://github.com/cristobalqv/siniestros-viales/blob/mai
 Constó de un primer acercamiento o visualización de forma gráfica de los datos, los cuales presentan ciertas tendencias en algunas de sus variables
 Archivo: [2 EDA.ipynb](https://github.com/cristobalqv/siniestros-viales/blob/main/2%20EDA.ipynb "2 EDA.ipynb")
 
+[![EDA1](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA1.png "EDA1")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA1.png "EDA1")
+
+TEXTO
+
+[![EDA 2](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA2.png "EDA 2")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA2.png "EDA 2")
+
+TEXTO
+
+[![EDA 3](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA3.png "EDA 3")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/EDA3.png "EDA 3")
+
 #### *DASHBOARD*
 Contiene datos interesantes y variables que deben ser tomadas en cuenta a la hora de generar políticas o campañas que vayan en pos de reducir el número de víctimas fatales de accidentes de tránsito y mejorar la seguridad vial en C.A.B.A.
 Archivo: [Proyecto 2.pbix](https://github.com/cristobalqv/siniestros-viales/blob/main/Proyecto%202.pbix "Proyecto 2.pbix")
@@ -25,13 +35,17 @@ Archivo: [Proyecto 2.pbix](https://github.com/cristobalqv/siniestros-viales/blob
 KPI 1: reducción de la tasa de homicidios en un 10% en los últimos 6 meses en comparación con la tasa del semestre anterior
 
 KPI 2: reducción en accidentes mortales de motocicleta en un 7% en el último año con respecto al año anterior
+[![KPI 1 y 2](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/kpi%201%20y%202.png "KPI 1 y 2")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/kpi%201%20y%202.png "KPI 1 y 2")
 
 
 
 KPI 3: Disminución de un 10% de cantidad homicidios en avenidas de 2020 a 2021
+[![KPI 3](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/kpi%203.png "KPI 3")](https://github.com/cristobalqv/siniestros-viales/blob/main/imagenes/kpi%203.png "KPI 3")
 
 
 Estos KPIs se crearon con la finalidad de cuantificar y potenciar la seguridad vial en C.A.B.A., suministrando métricas esenciales para evaluar la eficacia y el rendimiento de las acciones de prevención y seguridad adoptadas
+
+## CONCLUSIONES
 
 ## FUENTE DE DATOS
 https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales
